@@ -19,6 +19,10 @@ Pode ser sobre esportes, games, tecnologia, comida, etc.
 - Uma área principal com pelo menos 2 artigos
 - Um rodapé com seu nome e data
 
+## Estrutura:
+
+<img width="203" height="132" alt="image" src="https://github.com/user-attachments/assets/ab1fd9eb-a72d-40e7-91f6-4d9a6a341a1d" />
+
 ## Como entregar:
 1. Clone este repositório no seu computador
 2. Faça o exercício no arquivo `index.html`
